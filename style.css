@@ -86,3 +86,7 @@ input[type="text"]:focus, input[type="email"]:focus, textarea:focus {
     background-color: #85929e;
     border-color: #85929e;
 }
+.redes a i{color: #85929e;
+;}
+
+.enlaces a{text-decoration: none;}
